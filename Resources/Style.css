@@ -1,0 +1,42 @@
+#Name{
+    position: relative;
+    top: 25px;
+    left: 200px;
+}
+
+#Name2{
+    position: relative;
+    top: 75px;
+    left: 200px;
+}
+
+#image1{
+    position: relative;
+    left: 800px;
+    bottom: 125px;
+    height: 150px;
+    width: 150px;
+}
+
+#projectlistH{
+    position: relative;
+    left: 200px;
+}
+
+#list{
+    position: relative;
+    left: 175px;
+}
+
+#skillslistH{
+    position: relative;
+    left: 200px;
+    top: 40px;
+
+}
+
+#skillslist{
+    position: relative;
+    left:175px;
+    top:40px;
+}
