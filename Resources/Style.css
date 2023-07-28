@@ -2,7 +2,11 @@
     position: relative;
     top: 25px;
     left: 200px;
+<<<<<<< HEAD
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+=======
+    font-family: Times New Roman;
+>>>>>>> b5b93a925600c3c846af5076ce1702345664d55f
 }
 
 #Name2{
