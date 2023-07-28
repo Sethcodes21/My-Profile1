@@ -1,47 +1,45 @@
 #Name{
     position: relative;
     top: 25px;
-    left: 200px;
-<<<<<<< HEAD
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-=======
-    font-family: Times New Roman;
->>>>>>> b5b93a925600c3c846af5076ce1702345664d55f
+    left: 175px;
 }
 
 #Name2{
     position: relative;
     top: 75px;
-    left: 200px;
+    left: 175px;
 }
 
-#image1{
+.image1{
     position: relative;
-    left: 800px;
-    bottom: 125px;
-    height: 150px;
-    width: 150px;
-}
+    left: 900px;
+    bottom: 60px;
+    height: 200px;
+    width: 200px;
 
+}
 #projectlistH{
     position: relative;
-    left: 200px;
+    left: 175px;
+    bottom: 80px;
 }
 
 #list{
     position: relative;
-    left: 175px;
+    left: 150px;
+    bottom: 80px;
 }
 
 #skillslistH{
-    position: relative;
-    left: 200px;
-    top: 40px;
+    position: absolute;
+    left: 185px;
+    bottom: .5px;
 
 }
 
 #skillslist{
-    position: relative;
-    left:175px;
-    top:40px;
+    position: absolute;
+    left:158px;
+    bottom: 15px;
+    top: 540px;
 }
